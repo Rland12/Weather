@@ -1,0 +1,12 @@
+.rain{
+    background: url("http://giffiles.alphacoders.com/116/11620.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+}
+#location{
+    font-size:50px;
+}
+#temp{
+    font-size:50px;
+}
